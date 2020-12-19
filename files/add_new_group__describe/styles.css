@@ -469,7 +469,7 @@
   left:545px;
   top:210px;
   width:336px;
-  height:578px;
+  height:548px;
 }
 #u715_state0 {
   border-width:0px;
@@ -477,7 +477,7 @@
   left:0px;
   top:0px;
   width:336px;
-  height:578px;
+  height:548px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -503,7 +503,7 @@
   left:0px;
   top:0px;
   width:373px;
-  height:578px;
+  height:548px;
 }
 #u716_state0 {
   border-width:0px;
@@ -511,7 +511,7 @@
   left:0px;
   top:0px;
   width:373px;
-  height:578px;
+  height:548px;
   overflow:auto;
   -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
@@ -6571,7 +6571,7 @@
   left:0px;
   top:0px;
   width:375px;
-  height:83px;
+  height:112px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -6592,9 +6592,9 @@
   border-width:0px;
   position:absolute;
   left:527px;
-  top:787px;
+  top:758px;
   width:375px;
-  height:83px;
+  height:112px;
   display:flex;
 }
 #u848 .text {
@@ -6650,7 +6650,7 @@
   border-width:0px;
   position:absolute;
   left:525px;
-  top:788px;
+  top:760px;
   width:94px;
   height:51px;
   display:flex;
@@ -6693,7 +6693,7 @@
   border-width:0px;
   position:absolute;
   left:556px;
-  top:802px;
+  top:774px;
   width:24px;
   height:24px;
   display:flex;
@@ -6723,7 +6723,7 @@
   border-width:0px;
   position:absolute;
   left:562px;
-  top:800px;
+  top:772px;
   width:28px;
   height:28px;
   display:flex;
@@ -6766,7 +6766,7 @@
   border-width:0px;
   position:absolute;
   left:544px;
-  top:828px;
+  top:800px;
   width:65px;
   height:17px;
   display:flex;
@@ -6826,7 +6826,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro', sans-serif;
+  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
   font-weight:900;
   font-style:normal;
   font-size:24px;
@@ -6836,11 +6836,11 @@
   border-width:0px;
   position:absolute;
   left:713px;
-  top:788px;
+  top:760px;
   width:94px;
   height:51px;
   display:flex;
-  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro', sans-serif;
+  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
   font-weight:900;
   font-style:normal;
   font-size:24px;
@@ -6871,7 +6871,7 @@
   border-width:0px;
   position:absolute;
   left:742px;
-  top:800px;
+  top:772px;
   width:36px;
   height:28px;
   display:flex;
@@ -6914,7 +6914,7 @@
   border-width:0px;
   position:absolute;
   left:725px;
-  top:828px;
+  top:800px;
   width:65px;
   height:17px;
   display:flex;
@@ -6984,7 +6984,7 @@
   border-width:0px;
   position:absolute;
   left:619px;
-  top:788px;
+  top:760px;
   width:94px;
   height:51px;
   display:flex;
@@ -7019,7 +7019,7 @@
   border-width:0px;
   position:absolute;
   left:648px;
-  top:799px;
+  top:771px;
   width:33px;
   height:27px;
   display:flex;
@@ -7062,7 +7062,7 @@
   border-width:0px;
   position:absolute;
   left:634px;
-  top:828px;
+  top:800px;
   width:65px;
   height:17px;
   display:flex;
@@ -7120,7 +7120,7 @@
   border-width:0px;
   position:absolute;
   left:833px;
-  top:798px;
+  top:770px;
   width:24px;
   height:24px;
   display:flex;
@@ -7150,7 +7150,7 @@
   border-width:0px;
   position:absolute;
   left:837px;
-  top:799px;
+  top:771px;
   width:23px;
   height:29px;
   display:flex;
@@ -7194,7 +7194,7 @@
   border-width:0px;
   position:absolute;
   left:816px;
-  top:829px;
+  top:801px;
   width:65px;
   height:17px;
   display:flex;

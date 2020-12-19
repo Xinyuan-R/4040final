@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1109px;
+  width:930px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1633,7 +1633,7 @@
   left:0px;
   top:0px;
   width:375px;
-  height:143px;
+  height:123px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -1648,7 +1648,7 @@
   left:0px;
   top:37px;
   width:375px;
-  height:143px;
+  height:123px;
   display:flex;
 }
 #u1304 .text {
@@ -1678,7 +1678,7 @@
   left:0px;
   top:0px;
   width:375px;
-  height:141px;
+  height:123px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -1693,7 +1693,7 @@
   left:0px;
   top:37px;
   width:375px;
-  height:141px;
+  height:123px;
   display:flex;
 }
 #u1306 .text {
@@ -2587,7 +2587,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:219px;
+  top:220px;
   width:188px;
   height:49px;
   display:flex;
@@ -2633,7 +2633,7 @@
   border-width:0px;
   position:absolute;
   left:188px;
-  top:220px;
+  top:221px;
   width:187px;
   height:49px;
   display:flex;
@@ -4428,7 +4428,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro', sans-serif;
+  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
   font-weight:900;
   font-style:normal;
   font-size:16px;
@@ -4442,7 +4442,7 @@
   width:33px;
   height:36px;
   display:flex;
-  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro', sans-serif;
+  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
   font-weight:900;
   font-style:normal;
   font-size:16px;
@@ -5343,7 +5343,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro', sans-serif;
+  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
   font-weight:900;
   font-style:normal;
   font-size:24px;
@@ -5357,7 +5357,7 @@
   width:94px;
   height:51px;
   display:flex;
-  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro', sans-serif;
+  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
   font-weight:900;
   font-style:normal;
   font-size:24px;
